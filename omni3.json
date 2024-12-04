@@ -1,0 +1,31 @@
+
+{
+    "chapitres": [
+        {
+            "titre": "Chapitre 1",
+            "sections": [
+                {
+                    "titre": "Section 1",
+                    "contenu": "Contenu de la section 1"
+                },
+                {
+                    "titre": "Section 2",
+                    "contenu": "Contenu de la section 2"
+                }
+            ]
+        },
+        {
+            "titre": "Chapitre 2",
+            "sections": [
+                {
+                    "titre": "Section 1",
+                    "contenu": "Contenu de la section 1"
+                },
+                {
+                    "titre": "Section 2",
+                    "contenu": "Contenu de la section 2"
+                }
+            ]
+        }
+    ]
+}
