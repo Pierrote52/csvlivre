@@ -9,5 +9,28 @@
             "titre": "La suite",
             "numero": 2
         }
+    ],
+    "versets": [
+        {
+            "chapitre": 1,
+            "numero": 1,
+            "content": "Au commencement, Dieu créa les cieux et la terre."
+        },
+        {
+            "chapitre": 1,
+            "numero": 2,
+            "content": "La terre était informe et vide: il y avait des ténèbres à la surface de l'abîme, et l'esprit de Dieu se mouvait au-dessus des eaux."
+        },
+        {
+            "chapitre": 2,
+            "numero": 1,
+            "content": "Ainsi furent achevés les cieux et la terre, et toute leur armée."
+        },
+        {
+            "chapitre": 2,
+            "numero": 2,
+            "content": "Dieu acheva au septième jour son oeuvre, qu'il avait faite: et il se reposa au septième jour de toute son oeuvre, qu'il avait faite."
+        }
+        
     ]
 }
