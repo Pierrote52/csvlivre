@@ -2,13 +2,133 @@
 {
     "chapitres": [
         {
-            "titre": "La rupture",
-            "numero": 1
+            "numero": 1,
+            "title": "Genèse"
+           
         },
         {
-            "titre": "La suite",
-            "numero": 2
+            "numero": 2,
+            "title": "Exode"
+            
+        },
+        {
+            "numero": 3,
+            "title": "Lévitique"
+            
+        },
+        {
+            "numero": 4,
+            "title": "Nombres"
+            
+        },
+        {
+            "numero": 5,
+            "title": "Deutéronome"
+            
+        },
+        {
+            "numero": 6,
+            "title": "Josué"
+            
+        },
+        {
+            "numero": 7,
+            "title": "Juges"
+            
+        },
+        {
+            "numero": 8,
+            "title": "Ruth"
+            
+        },
+        {
+            "numero": 9,
+            "title": "1 Samuel"
+            
+        },
+        {
+            "numero": 10,
+            "title": "2 Samuel"
+            
+        },
+        {
+            "numero": 11,
+            "title": "1 Rois"
+            
+        },
+        {
+            "numero": 12,
+            "title": "2 Rois"
+            
+        },
+        {
+            "numero": 13,
+            "title": "1 Chroniques"
+            
+        },
+        {
+            "numero": 14,
+            "title": "2 Chroniques"
+            
+        },
+        {
+            "numero": 15,
+            "title": "Esdras"
+            
+        },
+        {
+            "numero": 16,
+            "title": "Néhémie"
+            
+        },
+        {
+            "numero": 17,
+            "title": "Esther"
+            
+        },
+        {
+            "numero": 18,
+            "title": "Job"
+            
+        },
+        {
+            "numero": 19,
+            "title": "Psaumes"
+            
+        },
+        {
+            "numero": 20,
+            "title": "Proverbes"
+            
+        },
+        {
+            "numero": 21,
+            "title": "Ecclésiaste"
+            
+        },
+        {
+            "numero": 22,
+            "title": "Cantique des Cantiques"
+            
+        },
+        {
+            "numero": 23,
+            "title": "Esaïe"
+            
+        },
+        {
+            "numero": 24,
+            "title": "Jérémie"
+            
+        },
+        {
+            "numero": 25,
+            "title": "Lamentations"
+            
         }
+        
+        
+
     ],
     "versets": [
         {
@@ -22,15 +142,104 @@
             "content": "La terre était informe et vide: il y avait des ténèbres à la surface de l'abîme, et l'esprit de Dieu se mouvait au-dessus des eaux."
         },
         {
-            "chapitre": 2,
-            "numero": 1,
-            "content": "Ainsi furent achevés les cieux et la terre, et toute leur armée."
+            "chapitre": 1,
+            "numero": 3,
+            "content": "Dieu dit: Que la lumière soit! Et la lumière fut."
         },
         {
-            "chapitre": 2,
-            "numero": 2,
-            "content": "Dieu acheva au septième jour son oeuvre, qu'il avait faite: et il se reposa au septième jour de toute son oeuvre, qu'il avait faite."
+            "chapitre": 1,
+            "numero": 4,
+            "content": "Dieu vit que la lumière était bonne; et Dieu sépara la lumière d'avec les ténèbres."
+        },
+        {
+            "chapitre": 1,
+            "numero": 5,
+            "content": "Dieu appela la lumière jour, et il appela les ténèbres nuit. Ainsi, il y eut un soir, et il y eut un matin: ce fut le premier jour."
+        },
+        {
+            "chapitre": 1,
+            "numero": 6,
+            "content": "Dieu dit: Qu'il y ait une étendue entre les eaux, et qu'elle sépare les eaux d'avec les eaux."
+        },
+        {
+            "chapitre": 1,
+            "numero": 7,
+            "content": "Dieu fit l'étendue, et il sépara les eaux qui sont au-dessous de l'étendue d'avec les eaux qui sont au-dessus de l'étendue. Et cela fut ainsi."
+        },
+        {
+            "chapitre": 1,
+            "numero": 8,
+            "content": "Dieu appela l'étendue ciel. Ainsi, il y eut un soir, et il y eut un matin: ce fut le second jour."
+        },
+        {
+            "chapitre": 1,
+            "numero": 9,
+            "content": "Dieu dit: Que les eaux qui sont au-dessous du ciel se rassemblent en un seul lieu, et que le sec paraisse. Et cela fut ainsi."
+        },
+        {
+            "chapitre": 1,
+            "numero": 10,
+            "content": "Dieu appela le sec terre, et il appela l'amas des eaux mers. Dieu vit que cela était bon."
+        },
+        {
+            "chapitre": 1,
+            "numero": 11,
+            "content": "Puis Dieu dit: Que la terre produise de la verdure, de l'herbe portant de la semence, des arbres fruitiers donnant du fruit selon leur espèce et ayant en eux leur semence sur la terre. Et cela fut ainsi." 
+        },
+        {
+            "chapitre": 1,
+            "numero": 12,
+            "content": "La terre produisit de la verdure, de l'herbe portant de la semence selon son espèce, et des arbres donnant du fruit et ayant en eux leur semence selon leur espèce. Dieu vit que cela était bon."
+        },
+        {
+            "chapitre": 1,
+            "numero": 13,
+            "content": "Ainsi, il y eut un soir, et il y eut un matin: ce fut le troisième jour."
+        },
+        {
+            "chapitre": 1,
+            "numero": 14,
+            "content": "Dieu dit: Qu'il y ait des luminaires dans l'étendue du ciel, pour séparer le jour d'avec la nuit; que ce soient des signes pour marquer les époques, les jours et les années;"
+        },
+        {
+            "chapitre": 1,
+            "numero": 15,
+            "content": "et qu'ils servent de luminaires dans l'étendue du ciel, pour éclairer la terre. Et cela fut ainsi."
+        },
+        {
+            "chapitre": 1,
+            "numero": 16,
+            "content": "Dieu fit les deux grands luminaires, le plus grand luminaire pour présider au jour, et le plus petit luminaire pour présider à la nuit; il fit aussi les étoiles."
+        },
+        {
+            "chapitre": 1,
+            "numero": 17,
+            "content": "Dieu les pla ça dans l'étendue du ciel, pour éclairer la terre,"
+        },
+        {
+            "chapitre": 1,
+            "numero": 18,
+            "content": "pour présider au jour et à la nuit, et pour séparer la lumière d'avec les ténèbres. Dieu vit que cela était bon."
+        },
+        {
+            "chapitre": 1,
+            "numero": 19,
+            "content": "Ainsi, il y eut un soir, et il y eut un matin: ce fut le quatrième jour."
+        },
+        {
+            "chapitre": 1,
+            "numero": 20,
+            "content": "Dieu dit: Que les eaux produisent en abondance des animaux vivants, et que des oiseaux volent sur la terre vers l'étendue du ciel."
+        },
+        {
+            "chapitre": 1,
+            "numero": 21,
+            "content": "Dieu créa les grands poissons et tous les animaux vivants qui se meuvent, et que les eaux produisirent en abondance selon leur espèce; il créa aussi tout oiseau ailé selon son espèce. Dieu vit que cela était bon."
+        },
+        {
+            "chapitre": 1,
+            "numero": 22,
+            "content": "Dieu les bénit, en disant: Soyez féconds, multipliez, et remplissez les eaux des mers; et que les oiseaux multiplient sur la terre."
         }
-        
     ]
 }
