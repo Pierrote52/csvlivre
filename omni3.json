@@ -1,245 +1,160 @@
 
-{
-    "chapitres": [
-        {
-            "numero": 1,
-            "titre": "Genèse"
-           
-        },
-        {
-            "numero": 2,
-            "titre": "Exode"
-            
-        },
-        {
-            "numero": 3,
-            "titre": "Lévitique"
-            
-        },
-        {
-            "numero": 4,
-            "titre": "Nombres"
-            
-        },
-        {
-            "numero": 5,
-            "titre": "Deutéronome"
-            
-        },
-        {
-            "numero": 6,
-            "titre": "Josué"
-            
-        },
-        {
-            "numero": 7,
-            "titre": "Juges"
-            
-        },
-        {
-            "numero": 8,
-            "titre": "Ruth"
-            
-        },
-        {
-            "numero": 9,
-            "titre": "1 Samuel"
-            
-        },
-        {
-            "numero": 10,
-            "titre": "2 Samuel"
-            
-        },
-        {
-            "numero": 11,
-            "titre": "1 Rois"
-            
-        },
-        {
-            "numero": 12,
-            "titre": "2 Rois"
-            
-        },
-        {
-            "numero": 13,
-            "titre": "1 Chroniques"
-            
-        },
-        {
-            "numero": 14,
-            "titre": "2 Chroniques"
-            
-        },
-        {
-            "numero": 15,
-            "titre": "Esdras"
-            
-        },
-        {
-            "numero": 16,
-            "titre": "Néhémie"
-            
-        },
-        {
-            "numero": 17,
-            "titre": "Esther"
-            
-        },
-        {
-            "numero": 18,
-            "titre": "Job"
-            
-        },
-        {
-            "numero": 19,
-            "titre": "Psaumes"
-            
-        },
-        {
-            "numero": 20,
-            "titre": "Proverbes"
-            
-        },
-        {
-            "numero": 21,
-            "titre": "Ecclésiaste"
-            
-        },
-        {
-            "numero": 22,
-            "titre": "Cantique des Cantiques"
-            
-        },
-        {
-            "numero": 23,
-            "titre": "Esaïe"
-            
-        },
-        {
-            "numero": 24,
-            "titre": "Jérémie"
-            
-        },
-        {
-            "numero": 25,
-            "titre": "Lamentations"
-            
-        }
-        
-        
-
-    ],
-    "versets": [
-        {
-            "chapitre": 1,
-            "numero": 1,
-            "content": "Au commencement, Dieu créa les cieux et la terre."
-        },
-        {
-            "chapitre": 1,
-            "numero": 2,
-            "content": "La terre était informe et vide: il y avait des ténèbres à la surface de l'abîme, et l'esprit de Dieu se mouvait au-dessus des eaux."
-        },
-        {
-            "chapitre": 1,
-            "numero": 3,
-            "content": "Dieu dit: Que la lumière soit! Et la lumière fut."
-        },
-        {
-            "chapitre": 1,
-            "numero": 4,
-            "content": "Dieu vit que la lumière était bonne; et Dieu sépara la lumière d'avec les ténèbres."
-        },
-        {
-            "chapitre": 1,
-            "numero": 5,
-            "content": "Dieu appela la lumière jour, et il appela les ténèbres nuit. Ainsi, il y eut un soir, et il y eut un matin: ce fut le premier jour."
-        },
-        {
-            "chapitre": 1,
-            "numero": 6,
-            "content": "Dieu dit: Qu'il y ait une étendue entre les eaux, et qu'elle sépare les eaux d'avec les eaux."
-        },
-        {
-            "chapitre": 1,
-            "numero": 7,
-            "content": "Dieu fit l'étendue, et il sépara les eaux qui sont au-dessous de l'étendue d'avec les eaux qui sont au-dessus de l'étendue. Et cela fut ainsi."
-        },
-        {
-            "chapitre": 1,
-            "numero": 8,
-            "content": "Dieu appela l'étendue ciel. Ainsi, il y eut un soir, et il y eut un matin: ce fut le second jour."
-        },
-        {
-            "chapitre": 1,
-            "numero": 9,
-            "content": "Dieu dit: Que les eaux qui sont au-dessous du ciel se rassemblent en un seul lieu, et que le sec paraisse. Et cela fut ainsi."
-        },
-        {
-            "chapitre": 1,
-            "numero": 10,
-            "content": "Dieu appela le sec terre, et il appela l'amas des eaux mers. Dieu vit que cela était bon."
-        },
-        {
-            "chapitre": 1,
-            "numero": 11,
-            "content": "Puis Dieu dit: Que la terre produise de la verdure, de l'herbe portant de la semence, des arbres fruitiers donnant du fruit selon leur espèce et ayant en eux leur semence sur la terre. Et cela fut ainsi." 
-        },
-        {
-            "chapitre": 1,
-            "numero": 12,
-            "content": "La terre produisit de la verdure, de l'herbe portant de la semence selon son espèce, et des arbres donnant du fruit et ayant en eux leur semence selon leur espèce. Dieu vit que cela était bon."
-        },
-        {
-            "chapitre": 1,
-            "numero": 13,
-            "content": "Ainsi, il y eut un soir, et il y eut un matin: ce fut le troisième jour."
-        },
-        {
-            "chapitre": 1,
-            "numero": 14,
-            "content": "Dieu dit: Qu'il y ait des luminaires dans l'étendue du ciel, pour séparer le jour d'avec la nuit; que ce soient des signes pour marquer les époques, les jours et les années;"
-        },
-        {
-            "chapitre": 1,
-            "numero": 15,
-            "content": "et qu'ils servent de luminaires dans l'étendue du ciel, pour éclairer la terre. Et cela fut ainsi."
-        },
-        {
-            "chapitre": 1,
-            "numero": 16,
-            "content": "Dieu fit les deux grands luminaires, le plus grand luminaire pour présider au jour, et le plus petit luminaire pour présider à la nuit; il fit aussi les étoiles."
-        },
-        {
-            "chapitre": 1,
-            "numero": 17,
-            "content": "Dieu les pla ça dans l'étendue du ciel, pour éclairer la terre,"
-        },
-        {
-            "chapitre": 1,
-            "numero": 18,
-            "content": "pour présider au jour et à la nuit, et pour séparer la lumière d'avec les ténèbres. Dieu vit que cela était bon."
-        },
-        {
-            "chapitre": 1,
-            "numero": 19,
-            "content": "Ainsi, il y eut un soir, et il y eut un matin: ce fut le quatrième jour."
-        },
-        {
-            "chapitre": 1,
-            "numero": 20,
-            "content": "Dieu dit: Que les eaux produisent en abondance des animaux vivants, et que des oiseaux volent sur la terre vers l'étendue du ciel."
-        },
-        {
-            "chapitre": 1,
-            "numero": 21,
-            "content": "Dieu créa les grands poissons et tous les animaux vivants qui se meuvent, et que les eaux produisirent en abondance selon leur espèce; il créa aussi tout oiseau ailé selon son espèce. Dieu vit que cela était bon."
-        },
-        {
-            "chapitre": 1,
-            "numero": 22,
-            "content": "Dieu les bénit, en disant: Soyez féconds, multipliez, et remplissez les eaux des mers; et que les oiseaux multiplient sur la terre."
-        }
-    ]
-}
+    {
+        "chapitres": [
+            {
+                "numero": 1,
+                "titre": "Le Mystère des Haricots Parleurs"
+            },
+            {
+                "numero": 2,
+                "titre": "La Menace du Grand Tomato Ketchup"
+            },
+            {
+                "numero": 3,
+                "titre": "La Quête du Détective Mandarine"
+            },
+            {
+                "numero": 4,
+                "titre": "L’Alliance avec le Renard Rusé"
+            },
+            {
+                "numero": 5,
+                "titre": "Les Secrets de la Base Lunaire"
+            },
+            {
+                "numero": 6,
+                "titre": "L’Ultime Révélation des Haricots"
+            },
+            {
+                "numero": 7,
+                "titre": "La Bataille Finale"
+            },
+            {
+                "numero": 8,
+                "titre": "Un Monde en Paix"
+            }
+        ],
+        "versets": [
+            {
+                "chapitre": 1,
+                "numero": 1,
+                "content": "Au commencement, les haricots furent créés dans un laboratoire top secret de la NASA."
+            },
+            {
+                "chapitre": 1,
+                "numero": 2,
+                "content": "Ces haricots, dotés d’une intelligence incroyable, parlaient et possédaient une énergie capable de résoudre les crises énergétiques mondiales."
+            },
+            {
+                "chapitre": 1,
+                "numero": 3,
+                "content": "Mais un jour, le projet fut classé secret défense après qu’un agent double ait tenté de les voler."
+            },
+            {
+                "chapitre": 2,
+                "numero": 1,
+                "content": "Le Grand Tomato Ketchup, un légume mutant avide de pouvoir, apprit l’existence des haricots magiques."
+            },
+            {
+                "chapitre": 2,
+                "numero": 2,
+                "content": "Il forma une armée de légumes mutants pour s’emparer de leur pouvoir et dominer le monde des légumes."
+            },
+            {
+                "chapitre": 2,
+                "numero": 3,
+                "content": "La NASA déclara l’état d’urgence et chercha de l’aide auprès du détective Mandarine."
+            },
+            {
+                "chapitre": 3,
+                "numero": 1,
+                "content": "Le détective Mandarine, célèbre pour son flair légendaire, accepta la mission, bien qu’elle semblait impossible."
+            },
+            {
+                "chapitre": 3,
+                "numero": 2,
+                "content": "Il se rendit à son QG secret, où il retrouva son fidèle ami, le Renard Rusé."
+            },
+            {
+                "chapitre": 3,
+                "numero": 3,
+                "content": "Ensemble, ils commencèrent à rassembler des indices sur le Grand Tomato Ketchup."
+            },
+            {
+                "chapitre": 4,
+                "numero": 1,
+                "content": "Le Renard Rusé, avec son agilité et son intelligence, infiltra la base secrète de Tomato Ketchup."
+            },
+            {
+                "chapitre": 4,
+                "numero": 2,
+                "content": "Pendant ce temps, Mandarine interrogea un haricot qui révélait que leur énergie venait d’une source lunaire."
+            },
+            {
+                "chapitre": 4,
+                "numero": 3,
+                "content": "Ils décidèrent de se rendre sur la Lune pour protéger la source d’énergie."
+            },
+            {
+                "chapitre": 5,
+                "numero": 1,
+                "content": "Sur la Lune, Mandarine et le Renard découvrirent une base secrète construite par la NASA."
+            },
+            {
+                "chapitre": 5,
+                "numero": 2,
+                "content": "Les haricots étaient gardés par des robots hautement perfectionnés, mais ils semblaient perturbés par la menace de Ketchup."
+            },
+            {
+                "chapitre": 5,
+                "numero": 3,
+                "content": "Mandarine trouva un ancien journal révélant que Ketchup était lui-même un ancien scientifique transformé en légume mutant."
+            },
+            {
+                "chapitre": 6,
+                "numero": 1,
+                "content": "Les haricots révélèrent que leur énergie pouvait soigner les blessures de la Terre et guérir les conflits entre espèces."
+            },
+            {
+                "chapitre": 6,
+                "numero": 2,
+                "content": "Mais cette énergie, utilisée à mauvais escient, pouvait aussi détruire la planète entière."
+            },
+            {
+                "chapitre": 6,
+                "numero": 3,
+                "content": "Mandarine comprit qu’il devait agir vite pour empêcher Ketchup d’activer cette énergie à son avantage."
+            },
+            {
+                "chapitre": 7,
+                "numero": 1,
+                "content": "La bataille éclata lorsque Ketchup et ses sbires envahirent la base lunaire."
+            },
+            {
+                "chapitre": 7,
+                "numero": 2,
+                "content": "Mandarine utilisa son esprit stratégique pour piéger Ketchup dans une capsule lunaire."
+            },
+            {
+                "chapitre": 7,
+                "numero": 3,
+                "content": "Le Renard Rusé activa une barrière énergétique, protégeant les haricots et sauvant le monde des légumes."
+            },
+            {
+                "chapitre": 8,
+                "numero": 1,
+                "content": "Avec Ketchup hors d’état de nuire, Mandarine et le Renard retournèrent sur Terre."
+            },
+            {
+                "chapitre": 8,
+                "numero": 2,
+                "content": "Les haricots furent placés sous la protection de la NASA, et leur énergie servit à restaurer les écosystèmes de la Terre."
+            },
+            {
+                "chapitre": 8,
+                "numero": 3,
+                "content": "Mandarine et le Renard, devenus des héros légendaires, partirent en quête d’un nouveau mystère à résoudre."
+            }
+        ]
+    }
+    
