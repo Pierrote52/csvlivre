@@ -2,6 +2,10 @@
     {
         "chapitres": [
             {
+                "numero":0,
+                "titre":"Page de garde"
+            }
+            {
                 "numero": 1,
                 "titre": "Le Mystère des Haricots Parleurs"
             },
