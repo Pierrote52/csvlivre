@@ -246,9 +246,9 @@
                 "content": "Mandarine et le Renard, devenus des héros légendaires, partirent en quête d’un nouveau mystère à résoudre."
             }
         ], 
-        "liens": {
-            {"appleStore": "http://www.apple.com/fr/"},
-            {"googlePlay": "https://play.google.com/store?hl=fr"}
+        "liens":{
+            "appleStore": "http://www.apple.com/fr/",
+            "googlePlay": "https://play.google.com/store?hl=fr"
 }, 
         "messages":{
             "partage": "Partagez cette histoire incroyable avec vos amis !",
